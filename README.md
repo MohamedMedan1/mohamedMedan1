@@ -59,12 +59,4 @@
 ---
 
 ### 📊 GitHub Stats :
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohamedMedan1&count_private=true&show_icons=true&theme=tokyonight" alt="Mohamed Medan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMedan1&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-  </a>
-</p>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MohamedMedan1)](https://github.com/MohamedMedan1/github-readme-stats-fast)
