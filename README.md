@@ -51,6 +51,14 @@
 
 ---
 
+### 📊 LeetCode Stats :
+
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/MohamedMedan" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats :
 
 <p align="center">
@@ -62,11 +70,3 @@
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMedan1&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 📊 LeetCode Stats :
-
-<!-- LeetCode Stats Card -->
-[![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
-
