@@ -51,17 +51,19 @@
 
 ---
 
-### 📊 LeetCode Stats :
-
-<!-- LeetCode Stats Card -->
-[![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
-
----
-
 ### 📊 GitHub Stats :
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedMedan1&theme=radical&langs_count=8" alt="Top Langs" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MohamedMedan1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMedan1&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📊 LeetCode Stats :
+
+<!-- LeetCode Stats Card -->
+[![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
+
