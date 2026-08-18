@@ -53,7 +53,7 @@
 
 <!-- LeetCode Stats Card -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MohamedMedan&theme=dark" alt="LeetCode Badge" />
+  <img src="https://leetcode.card.ucode.pw/?username=MohamedMedan&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -61,10 +61,10 @@
 ### 📊 GitHub Stats :
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xosl05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xosl05&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedMedan1&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedMedan1&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xosl05&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMedan1&theme=tokyonight" alt="GitHub Streak" />
 </p>
