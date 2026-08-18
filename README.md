@@ -52,9 +52,8 @@
 ---
 
 <!-- LeetCode Stats Card -->
-<p align="center">
-  <img src="https://leetcode.card.ucode.pw/?username=MohamedMedan&theme=dark" alt="LeetCode Stats" />
-</p>
+[![LeetCode Stats](https://vercel.app)](https://leetcode.com/https://leetcode.com/u/MohamedMedan)
+
 
 ---
 
