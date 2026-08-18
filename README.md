@@ -55,7 +55,7 @@
 
 <!-- LeetCode Stats Card -->
 [![Leetcode Stats](https://leetcode-stats-fast.vercel.app/?username=MohamedMedan&ext=heatmap&theme=transparent)](https://leetcode.com/u/MohamedMedan)
-
+[![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=tokyonight&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
 
 ---
 
