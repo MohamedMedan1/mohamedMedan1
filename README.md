@@ -54,10 +54,13 @@
 ### 📊 GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedMedan1&theme=radical&langs_count=8" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MohamedMedan1&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohamedMedan1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMedan1&theme=radical" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedMedan1&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMedan1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
