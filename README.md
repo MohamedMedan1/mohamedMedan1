@@ -53,6 +53,7 @@
 
 <!-- LeetCode Stats Card -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MohamedMedan?theme=transparent)](https://leetcode.com/u/MohamedMedan)
 
 ---
 
