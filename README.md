@@ -52,8 +52,7 @@
 ---
 
 <!-- LeetCode Stats Card -->
-[![LeetCode Stats](https://vercel.app)](https://leetcode.com/https://leetcode.com/u/MohamedMedan)
-
+[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com)
 
 ---
 
