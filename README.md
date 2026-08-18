@@ -35,22 +35,44 @@
 
 <p align="left">
   <!-- Languages & Runtimes -->
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" /><br/>
-  
+  <a href="#"><img src="https://techicons.dev/icons/javascript.svg" width="48" height="48" alt="JavaScript" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/typescript.svg" width="48" height="48" alt="TypeScript" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/nodejs.svg" width="48" height="48" alt="Node.js" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/cpp.svg" width="48" height="48" alt="C++" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/python.svg" width="48" height="48" alt="Python" /></a>
+  <br/>
+
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" /><br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=express,nestjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="Socket.io" /><br/>
-  
-  <!-- Databases & Caching -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo.png" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="TypeORM" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="Mongoose" /><br/>
-  
+  <a href="#"><img src="https://techicons.dev/icons/react.svg" width="48" height="48" alt="React" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/nextjs.svg" width="48" height="48" alt="Next.js" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/redux.svg" width="48" height="48" alt="Redux" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/bootstrap.svg" width="48" height="48" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/html5.svg" width="48" height="48" alt="HTML5" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/css3.svg" width="48" height="48" alt="CSS3" /></a>
+  <br/>
+
+  <!-- Backend & Real-time -->
+  <a href="#"><img src="https://techicons.dev/icons/express.svg" width="48" height="48" alt="Express" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/nestjs.svg" width="48" height="48" alt="NestJS" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" /></a>
+  <br/>
+
+  <!-- Databases & ORMs & Caching -->
+  <a href="#"><img src="https://techicons.dev/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/mongodb.svg" width="48" height="48" alt="MongoDB" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/redis.svg" width="48" height="48" alt="Redis" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/prisma.svg" width="48" height="48" alt="Prisma" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" width="48" height="48" alt="TypeORM" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" alt="Mongoose" /></a>
+  <br/>
+
   <!-- Tools & Security -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
+  <a href="#"><img src="https://techicons.dev/icons/git.svg" width="48" height="48" alt="Git" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/github.svg" width="48" height="48" alt="GitHub" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/postman.svg" width="48" height="48" alt="Postman" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/vscode.svg" width="48" height="48" alt="VSCode" /></a>
+  <a href="#"><img src="https://techicons.dev/icons/jest.svg" width="48" height="48" alt="Jest" /></a>
 </p>
 
 ---
