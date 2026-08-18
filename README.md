@@ -52,10 +52,10 @@
 ---
 
 ### 📊 LeetCode Stats :
-
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/MohamedMedan" alt="LeetCode Stats" />
-</p>
+  [![LeetCode](https://github-readme-leetcode-card.romitsagu.com/NinePiece2?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
+  <p align="center">
+    <img src="https://leetcode-stats-api.herokuapp.com/MohamedMedan" alt="LeetCode Stats" />
+  </p>
 
 ---
 
