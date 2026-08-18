@@ -53,7 +53,7 @@
 
 <!-- LeetCode Stats Card -->
 <p align="center">
-  <img src="https://leetcode-stats-series-card.vercel.app/api?username=MohamedMedan&theme=tokyonight" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=MohamedMedan&theme=dark" alt="LeetCode Badge" />
 </p>
 
 ---
