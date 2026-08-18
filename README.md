@@ -52,7 +52,7 @@
 ---
 
 ### 📊 LeetCode Stats :
-  [![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
+
   <p align="center">
     <a href="https://leetcode.com/u/MohamedMedan">
       <img src="https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent" alt="LeetCode Stats" />
