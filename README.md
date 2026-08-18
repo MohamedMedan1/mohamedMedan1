@@ -15,13 +15,16 @@
 ### 📍 Let's Connect :
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-medan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohamedaymanmedan@gmail.com">
+  <a href="mailto:mohamedmedan258@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/xosl05">
+  <a href="https://wa.me/201024753111" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/xosl05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -32,11 +35,16 @@
 
 <p align="left">
   <!-- Languages & Runtimes -->
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,cpp,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" /><br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=express,nestjs" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
   <!-- Databases & Caching -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mongoose,prisma,typeorm" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <!-- Tools & Security -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
 </p>
