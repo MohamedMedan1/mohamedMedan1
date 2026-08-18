@@ -51,6 +51,13 @@
 
 ---
 
+<!-- LeetCode Stats Card -->
+<p align="center">
+  <img src="https://leetcode-stats-series-card.vercel.app/api?username=MohamedMedan&theme=tokyonight" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📊 GitHub Stats :
 
 <p align="center">
