@@ -35,16 +35,16 @@
 
 <p align="left">
   <!-- Languages & Runtimes -->
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" />
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=express,nestjs" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
+  <img src="https://api.iconify.design/logos:socket-io.svg" width="45" height="45" alt="Socket.io" />
   <!-- Databases & Caching -->
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" /><br/>
+  <img src="https://api.iconify.design/devicon:typeorm.svg" width="45" height="45" alt="TypeORM" />
+  <img src="https://api.iconify.design/devicon:mongoose.svg" width="45" height="45" alt="Mongoose" />
   <!-- Tools & Security -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
 </p>
