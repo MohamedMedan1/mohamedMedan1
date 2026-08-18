@@ -60,3 +60,4 @@
 
 ### 📊 GitHub Stats :
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MohamedMedan1&show_icons=true&theme=radical)](https://github.com/MohamedMedan1/github-readme-stats-fast)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedMedan1&theme=radical&langs_count=8)
