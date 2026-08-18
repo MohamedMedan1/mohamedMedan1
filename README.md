@@ -55,7 +55,6 @@
 
 <!-- LeetCode Stats Card -->
 [![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
-[![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=gruvbox&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
 
 ---
 
