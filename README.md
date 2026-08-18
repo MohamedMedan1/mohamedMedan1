@@ -52,9 +52,11 @@
 ---
 
 ### 📊 LeetCode Stats :
-  [![LeetCode](https://github-readme-leetcode-card.romitsagu.com/NinePiece2?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
+  [![LeetCode](https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent)](https://leetcode.com/u/MohamedMedan)
   <p align="center">
-    <img src="https://leetcode-stats-api.herokuapp.com/MohamedMedan" alt="LeetCode Stats" />
+    <a href="https://leetcode.com/u/MohamedMedan">
+      <img src="https://github-readme-leetcode-card.romitsagu.com/MohamedMedan?theme=radical&show=graph,recent" alt="LeetCode Stats" />
+    </a>
   </p>
 
 ---
