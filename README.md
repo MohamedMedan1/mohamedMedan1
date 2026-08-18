@@ -36,15 +36,19 @@
 <p align="left">
   <!-- Languages & Runtimes -->
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" /><br/>
+  
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" /><br/>
+  
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=express,nestjs" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="Socket.io" /><br/>
+  
   <!-- Databases & Caching -->
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo.png" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="TypeORM" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="48" height="48" style="border-radius: 10px; background-color: #1a1b26; padding: 5px;" alt="Mongoose" /><br/>
+  
   <!-- Tools & Security -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
 </p>
