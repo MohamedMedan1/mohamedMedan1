@@ -52,7 +52,7 @@
 ---
 
 <!-- LeetCode Stats Card -->
-[![LeetCode Stats](https://jacoblin.cool)](https://leetcode.com)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=transparent)
 
 ---
 
