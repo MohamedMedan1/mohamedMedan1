@@ -46,7 +46,7 @@
   <img src="https://api.iconify.design/devicon:typeorm.svg" width="45" height="45" alt="TypeORM" />
   <img src="https://api.iconify.design/devicon:mongoose.svg" width="45" height="45" alt="Mongoose" />
   <!-- Tools & Security -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jest,docker" />
 </p>
 
 ---
