@@ -35,7 +35,7 @@
 
 <p align="left">
   <!-- Languages & Runtimes -->
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,python,go" />
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
   <!-- Backend -->
